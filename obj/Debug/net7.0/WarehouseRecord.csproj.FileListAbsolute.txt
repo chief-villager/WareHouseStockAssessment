@@ -1,0 +1,15 @@
+/Users/admin/Documents/Projects/DotNet/WarehouseRecord/bin/Debug/net7.0/WarehouseRecord
+/Users/admin/Documents/Projects/DotNet/WarehouseRecord/bin/Debug/net7.0/WarehouseRecord.deps.json
+/Users/admin/Documents/Projects/DotNet/WarehouseRecord/bin/Debug/net7.0/WarehouseRecord.runtimeconfig.json
+/Users/admin/Documents/Projects/DotNet/WarehouseRecord/bin/Debug/net7.0/WarehouseRecord.dll
+/Users/admin/Documents/Projects/DotNet/WarehouseRecord/bin/Debug/net7.0/WarehouseRecord.pdb
+/Users/admin/Documents/Projects/DotNet/WarehouseRecord/obj/Debug/net7.0/WarehouseRecord.csproj.AssemblyReference.cache
+/Users/admin/Documents/Projects/DotNet/WarehouseRecord/obj/Debug/net7.0/WarehouseRecord.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Documents/Projects/DotNet/WarehouseRecord/obj/Debug/net7.0/WarehouseRecord.AssemblyInfoInputs.cache
+/Users/admin/Documents/Projects/DotNet/WarehouseRecord/obj/Debug/net7.0/WarehouseRecord.AssemblyInfo.cs
+/Users/admin/Documents/Projects/DotNet/WarehouseRecord/obj/Debug/net7.0/WarehouseRecord.csproj.CoreCompileInputs.cache
+/Users/admin/Documents/Projects/DotNet/WarehouseRecord/obj/Debug/net7.0/WarehouseRecord.dll
+/Users/admin/Documents/Projects/DotNet/WarehouseRecord/obj/Debug/net7.0/refint/WarehouseRecord.dll
+/Users/admin/Documents/Projects/DotNet/WarehouseRecord/obj/Debug/net7.0/WarehouseRecord.pdb
+/Users/admin/Documents/Projects/DotNet/WarehouseRecord/obj/Debug/net7.0/WarehouseRecord.genruntimeconfig.cache
+/Users/admin/Documents/Projects/DotNet/WarehouseRecord/obj/Debug/net7.0/ref/WarehouseRecord.dll
