@@ -15,6 +15,7 @@ Edit
 cd your-repo-name
 
 Restore dependencies:
+
 bash
 Copy
 Edit
@@ -22,6 +23,7 @@ dotnet restore
 
 
 Run the application:
+
 bash
 Copy
 Edit
