@@ -24,7 +24,7 @@ The application reads these files and helps you quickly locate where stock is av
 1. **Clone the repository**
 
 ```bash
-
+https://github.com/chief-villager/WareHouseStockAssessment.git
 ```
 
 2. **Navigate to the project directory**
