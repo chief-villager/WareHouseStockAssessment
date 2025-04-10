@@ -1,39 +1,56 @@
-# Assessment
+# Warehouse Stock Finder
 
-This assessment was given to find out which warehouse contains stock by giving you the state and sku number. 
-you are provided with 2 .csv files. one contains the sku number,stock numbers and 
-the other contains the warehouses and their states. 
+This is a console application built with .NET to determine which warehouse contains stock, based on a given **state** and **SKU number**.
 
-Installation
-Clone the repository
+You are provided with two `.csv` files:
+- One contains SKU numbers and stock quantities.
+- The other contains warehouse locations and their states.
 
-Navigate to the project directory:
+The application reads these files and helps you quickly locate where stock is available.
 
-bash
-Copy
-Edit
+## Features
+
+- Reads data from CSV files
+- Takes user input for State and SKU
+- Returns the warehouse containing the requested stock
+
+## Technologies Used
+
+- .NET Console Application
+- C#
+
+## Installation
+
+1. **Clone the repository**
+
+```bash
+
+```
+
+2. **Navigate to the project directory**
+
+```bash
 cd your-repo-name
+```
 
-Restore dependencies:
+3. **Restore dependencies**
 
-bash
-Copy
-Edit
+```bash
 dotnet restore
+```
 
+4. **Run the application**
 
-Run the application:
-
-bash
-Copy
-Edit
+```bash
 dotnet run
+```
 
+## Usage
 
+- Make sure the CSV files are in the correct location as expected by the application.
+- When you run the app, enter the **State** and **SKU number** as prompted.
+- The application will output the warehouse containing the requested stock.
 
+## Contributing
 
-Technologies Used
-.NET Console Application
-
-
-
+Contributions are welcome! Feel free to submit a pull request.
